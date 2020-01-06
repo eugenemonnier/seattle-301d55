@@ -1,0 +1,37 @@
+#nav, #article, #aside, #section {
+  margin: 0 auto;
+  width: 900px;
+}
+#nav {
+  margin-top: 25px;
+}
+#print, #date {
+  color: #a9a8a5;
+  font-family: 'Abel', sans-serif;
+  font-size: .8em;
+  margin: 0;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 33px;
+}
+#date {
+  float: left;
+}
+#print {
+  text-decoration: none;
+  padding-left: 30px;
+  float: right;
+}
+#print img {
+  margin-right: 3px;
+}
+#section hr {
+  border-bottom: 1px solid #eee;
+  height: 0;
+}
+#section p{
+  padding: 50px 0;
+  line-height: 1.5em;
+  text-align: center;
+  color: #aaa;
+}
